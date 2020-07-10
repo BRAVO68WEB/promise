@@ -3,6 +3,7 @@
 ![Discord Status](https://24-7.promise.solutions/me/status.svg)
 ![Activity](https://24-7.promise.solutions/me/activity.svg)
 ![Listening to](https://24-7.promise.solutions/me/spotify.svg)
+![Local Time](https://24-7.promise.solutions/me/time.svg)
 
 - 🔭 I’m currently working on [Countr](https://github.com/countr/bot), and also expanding my social life in real life.
 - 📫 How to reach me: [Discord](https://promise.solutions/discord), [Twitter](https://twitter.com/GleenyPromise) or even [email](mailto:me@promise.solutions) if you're still into that.
